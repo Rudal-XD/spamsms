@@ -715,4 +715,4 @@ if __name__ == '__main__':
 	os.system('clear')
 	os.system('xdg-open https://youtube.com/channel/UCTuJ142jrkZxS_QnkttTMNQ')
 	sleep(7)
-	spamsms()
+	()
