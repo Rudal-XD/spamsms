@@ -15,8 +15,6 @@ try:
 	from cookielib import LWPCookieJar as Cookie
 	from requests.exceptions import ConnectionError
 
-	os.system('clear')
-
 	def Tik(s):
 		for i in s + '\n':
 			sys.stdout.write(i)
@@ -712,7 +710,7 @@ except ImportError:
 if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
 	sleep(2)
-	os.system('git pull')
+	os.system('clear')
 	os.system('xdg-open https://youtube.com/channel/UCTuJ142jrkZxS_QnkttTMNQ')
 	sleep(7)
 	Spam.py()
