@@ -695,15 +695,6 @@ try:
 			print
 			print(W+'Tools Tidak Di Temukan'+C+' ^_^')
 		
-except ImportError:
-	print(C+'Module Belum Terpasang'+W+' ^_^')
-	print(W+'Install Module'+C+' ...')
-	print
-	os.system('pip2 install -r requirements.txt')
-	print
-	print(C+'Selesai'+W+' ^_^') 
-	sleep (1.5)
-	
 if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
 	sleep (2)
