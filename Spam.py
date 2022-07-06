@@ -698,7 +698,7 @@ try:
 except ImportError:
 	print(C+'Module Belum Terpasang'+W+' ^_^')
 	print(W+'Install Module'+C+' ...')
-	sleep(1.5)
+	sleep(1)
 	print
 	os.system('pip2 install -r requirements.txt')
 	print
