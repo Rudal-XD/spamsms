@@ -695,7 +695,7 @@ try:
 			print
 			print(W+'Tools Tidak Di Temukan'+C+' ^_^')
 		
-   if __name__ == '__main__':
+ if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
 	sleep (2)
 	os.system('xdg-open https://youtube.com/channel/UCTuJ142jrkZxS_QnkttTMNQ')
