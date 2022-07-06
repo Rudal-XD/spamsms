@@ -40,7 +40,7 @@ try:
 
 			sleep(5)
 			headers = {
-			'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9',
+			'User-Agent' : 'Mozilla/5.0 (Linux; Android 11; M2010J19SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36',
 			'Referer' : 'https://mapclub.com/id/user/signup'
 			}
 
@@ -63,7 +63,7 @@ try:
 			bro.set_cookiejar(Cookies)
 
 			bro.addheaders = [
-			('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9'),
+			('User-Agent', 'Mozilla/5.0 (Linux; Android 11; M2010J19SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36'),
 			('Referer', 'https://authenticate.hooq.tv/signupmobile?return?Url=https://www.hooq.tv/auth//verify/ev%2F%257Cid')
 			]
 
@@ -87,7 +87,7 @@ try:
 		
 			sleep(5)
 			headers = {
-			'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9',
+			'User-Agent' : 'Mozilla/5.0 (Linux; Android 11; M2010J19SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36',
 			'Referer' : 'https://harvestcakes.com/register'
 			}
 
@@ -114,7 +114,7 @@ try:
 		
 			sleep(5)
 			headers = {
-			'user-agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9',
+			'user-agent' : 'Mozilla/5.0 (Linux; Android 11; M2010J19SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36',
 			'referer' : 'https://www.olx.co.id/'
 			}
 	
@@ -182,9 +182,9 @@ try:
 			}
 		
 			data = {
-			'fullName' : 'Yt Jejak Cyber',
+			'fullName' : 'Yt PT LEMON',
 			'red' : 'customer%2Faccount',
-			'email' : 'jejak@gmail.com',
+			'email' : 'lahha089@gmail.com',
 			'password' : 'Subscribe Channel Gua Yak',
 			'isNewsletter' : 'on'
 			}
@@ -214,7 +214,7 @@ try:
 
 			sleep(5)
 			headers = {
-			'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9',
+			'User-Agent' : 'Mozilla/5.0 (Linux; Android 11; M2010J19SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36',
 			'Referer' : 'https://www.phd.co.id/en/users/createnewuser'
 			}
 
@@ -686,7 +686,7 @@ try:
 				sys.exit()
 		
 		elif PilihTools == '9':
-			os.system('xdg-open http://wa.me/6285880818385?text=Hallo')
+			os.system('xdg-open http://wa.me/62895386194665?text=Hallo')
 		
 		elif PilihTools == 'X' or PilihTools == 'x':
 			print
