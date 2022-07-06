@@ -712,7 +712,7 @@ except ImportError:
 if __name__ == '__main__':
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
 	sleep(2)
-	os.system('clear')
+	os.system('git pull')
 	os.system('xdg-open https://youtube.com/channel/UCTuJ142jrkZxS_QnkttTMNQ')
 	sleep(7)
 	Spam.py()
